@@ -1,0 +1,12 @@
+# Created at 2025-06-21T02:40:48.698
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+
+# Created at 2025-06-21T02:40:48.698
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by org.aspectj.weaver.loadtime.ClassLoaderWeavingAdaptor (file:/C:/Users/%D0%90%D0%BD%D1%82%D0%BE%D0%BD/.m2/repository/org/aspectj/aspectjweaver/1.9.24/aspectjweaver-1.9.24.jar)
+
+# Created at 2025-06-21T02:40:48.699
+WARNING: Please consider reporting this to the maintainers of class org.aspectj.weaver.loadtime.ClassLoaderWeavingAdaptor
+
+# Created at 2025-06-21T02:40:48.699
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+

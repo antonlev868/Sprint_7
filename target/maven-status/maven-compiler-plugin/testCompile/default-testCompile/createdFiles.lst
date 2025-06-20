@@ -1,0 +1,14 @@
+org\example\apitests\courier\LoginCourierTests.class
+org\example\apitests\entities\responseentities\CourierResponse.class
+org\example\apitests\courier\CreateCourierTests.class
+org\example\resthandlers\httpclients\CourierHTTPClient.class
+org\example\apitests\entities\requestentities\Order.class
+org\example\apitests\order\GetOrdersListTests.class
+org\example\apitests\order\CreateOrderTests.class
+org\example\resthandlers\apihandlers\CourierAPIHandler.class
+org\example\resthandlers\apihandlers\OrdersAPIHandler.class
+org\example\apitests\entities\requestentities\Courier.class
+org\example\apitests\entities\responseentities\OrderResponse.class
+org\example\resthandlers\httpclients\OrdersHTTPClient.class
+org\example\resthandlers\httpclients\BaseHTTPClient.class
+org\example\ScooterUrls.class
